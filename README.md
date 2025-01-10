@@ -30,7 +30,7 @@ Este é um aplicativo de controle de tarefas, no estilo **To-Do List**, desenvol
 
 1. Clone este repositório:
  ```bash
-   git clone https://github.com/seu-usuario/todo-list-react-native.git
+   git clone https://github.com/daluamon/toDoListReactNative.git
 ```
 2. Navegue até o diretório do projeto:
 
